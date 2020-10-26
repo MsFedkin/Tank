@@ -17,9 +17,9 @@ enum
 enum
 {
   MOTOR_PIN1 = 7, // 2 пин на L293D
-  MOTOR_PIN2 = 6, // 3 пин на L293D
-  MOTOR_PIN3 = 5, // 6 пин на L293D
-  MOTOR_PIN4 = 4, // 7 пин на L293D
+  MOTOR_PIN2 = 6, // 7 пин на L293D
+  MOTOR_PIN3 = 5, // 15 пин на L293D
+  MOTOR_PIN4 = 4, // 10 пин на L293D
   PINS_NUM
 };
 
